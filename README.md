@@ -2,7 +2,7 @@
 
 This is a repository dedicated to my grow with google challenge projects
 
-###Instructions: ###
+#Instructions: 
 
 1. Download the zip file.
 2. Open the html file in a browser
